@@ -1,0 +1,12 @@
+D:\Sample Project\MondayTask\Design\bin\Debug\Design.exe
+D:\Sample Project\MondayTask\Design\bin\Debug\Design.pdb
+D:\Sample Project\MondayTask\Design\obj\Debug\Design.Form1.resources
+D:\Sample Project\MondayTask\Design\obj\Debug\Design.Properties.Resources.resources
+D:\Sample Project\MondayTask\Design\obj\Debug\AcmeHome.csproj.GenerateResource.Cache
+D:\Sample Project\MondayTask\Design\obj\Debug\Design.exe.licenses
+D:\Sample Project\MondayTask\Design\obj\Debug\Design.exe
+D:\Sample Project\MondayTask\Design\obj\Debug\Design.pdb
+D:\Sample Project\MondayTask\Design\obj\Debug\Design.RibbonForm1.resources
+D:\Sample Project\MondayTask\Design\obj\Debug\Design.SplashScreen1.resources
+D:\Sample Project\MondayTask\Design\obj\Debug\Design.XtraForm1.resources
+D:\Sample Project\MondayTask\Design\obj\Debug\AcmeHome.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Sample Project\MondayTask\DemoGridLookup\bin\Debug\DemoGridLookup.exe
+D:\Sample Project\MondayTask\DemoGridLookup\bin\Debug\DemoGridLookup.pdb
+D:\Sample Project\MondayTask\DemoGridLookup\obj\Debug\DemoGridLookup.Form1.resources
+D:\Sample Project\MondayTask\DemoGridLookup\obj\Debug\DemoGridLookup.Properties.Resources.resources
+D:\Sample Project\MondayTask\DemoGridLookup\obj\Debug\DemoGridLookup.csproj.GenerateResource.Cache
+D:\Sample Project\MondayTask\DemoGridLookup\obj\Debug\DemoGridLookup.exe
+D:\Sample Project\MondayTask\DemoGridLookup\obj\Debug\DemoGridLookup.pdb
+D:\Sample Project\MondayTask\DemoGridLookup\obj\Debug\DemoGridLookup.exe.licenses
+D:\Sample Project\MondayTask\DemoGridLookup\obj\Debug\DemoGridLookup.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Sample Project\MondayTask\DevExpressDashboardApps\obj\Debug\DevExpressDashboardApps.Form1.resources
+D:\Sample Project\MondayTask\DevExpressDashboardApps\obj\Debug\DevExpressDashboardApps.Properties.Resources.resources
+D:\Sample Project\MondayTask\DevExpressDashboardApps\obj\Debug\DevExpressDashboardApps.XtraForm1.resources
+D:\Sample Project\MondayTask\DevExpressDashboardApps\obj\Debug\DevExpressDashboardApps.csproj.GenerateResource.Cache
+D:\Sample Project\MondayTask\DevExpressDashboardApps\obj\Debug\DevExpressDashboardApps.exe.licenses
+D:\Sample Project\MondayTask\DevExpressDashboardApps\bin\Debug\DevExpressDashboardApps.exe
+D:\Sample Project\MondayTask\DevExpressDashboardApps\bin\Debug\DevExpressDashboardApps.pdb
+D:\Sample Project\MondayTask\DevExpressDashboardApps\obj\Debug\DevExpressDashboardApps.exe
+D:\Sample Project\MondayTask\DevExpressDashboardApps\obj\Debug\DevExpressDashboardApps.pdb
+D:\Sample Project\MondayTask\DevExpressDashboardApps\obj\Debug\DevExpressDashboardApps.csprojResolveAssemblyReference.cache

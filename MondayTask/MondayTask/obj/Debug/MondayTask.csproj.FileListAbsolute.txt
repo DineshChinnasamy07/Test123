@@ -1,0 +1,12 @@
+D:\Sample Project\MondayTask\MondayTask\bin\Debug\MondayTask.exe
+D:\Sample Project\MondayTask\MondayTask\bin\Debug\MondayTask.pdb
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.Properties.Resources.resources
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.csproj.GenerateResource.Cache
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.exe
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.pdb
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.exe.licenses
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.Home.resources
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.ProductDetalis.resources
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.Login.resources
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.csprojResolveAssemblyReference.cache
+D:\Sample Project\MondayTask\MondayTask\obj\Debug\MondayTask.Test.resources

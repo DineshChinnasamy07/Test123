@@ -1,0 +1,9 @@
+D:\Sample Project\MondayTask\GridTask\bin\Debug\GridTask.exe
+D:\Sample Project\MondayTask\GridTask\bin\Debug\GridTask.pdb
+D:\Sample Project\MondayTask\GridTask\obj\Debug\GridTask.Form1.resources
+D:\Sample Project\MondayTask\GridTask\obj\Debug\GridTask.Properties.Resources.resources
+D:\Sample Project\MondayTask\GridTask\obj\Debug\GridTask.csproj.GenerateResource.Cache
+D:\Sample Project\MondayTask\GridTask\obj\Debug\GridTask.exe.licenses
+D:\Sample Project\MondayTask\GridTask\obj\Debug\GridTask.exe
+D:\Sample Project\MondayTask\GridTask\obj\Debug\GridTask.pdb
+D:\Sample Project\MondayTask\GridTask\obj\Debug\GridTask.Form2.resources

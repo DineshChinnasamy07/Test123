@@ -1,0 +1,9 @@
+D:\Sample Project\MondayTask\ChartBasic\bin\Debug\ChartBasic.exe
+D:\Sample Project\MondayTask\ChartBasic\bin\Debug\ChartBasic.pdb
+D:\Sample Project\MondayTask\ChartBasic\obj\Debug\ChartBasic.Form1.resources
+D:\Sample Project\MondayTask\ChartBasic\obj\Debug\ChartBasic.Properties.Resources.resources
+D:\Sample Project\MondayTask\ChartBasic\obj\Debug\ChartDemoApp.csproj.GenerateResource.Cache
+D:\Sample Project\MondayTask\ChartBasic\obj\Debug\ChartBasic.exe.licenses
+D:\Sample Project\MondayTask\ChartBasic\obj\Debug\ChartBasic.exe
+D:\Sample Project\MondayTask\ChartBasic\obj\Debug\ChartBasic.pdb
+D:\Sample Project\MondayTask\ChartBasic\obj\Debug\ChartDemoApp.csprojResolveAssemblyReference.cache

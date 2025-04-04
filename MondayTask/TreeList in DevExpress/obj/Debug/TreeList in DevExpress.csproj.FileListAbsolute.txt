@@ -1,0 +1,9 @@
+D:\Sample Project\MondayTask\TreeList in DevExpress\bin\Debug\TreeList in DevExpress.exe
+D:\Sample Project\MondayTask\TreeList in DevExpress\bin\Debug\TreeList in DevExpress.pdb
+D:\Sample Project\MondayTask\TreeList in DevExpress\obj\Debug\TreeList_in_DevExpress.Form1.resources
+D:\Sample Project\MondayTask\TreeList in DevExpress\obj\Debug\TreeList_in_DevExpress.Properties.Resources.resources
+D:\Sample Project\MondayTask\TreeList in DevExpress\obj\Debug\TreeList in DevExpress.csproj.GenerateResource.Cache
+D:\Sample Project\MondayTask\TreeList in DevExpress\obj\Debug\TreeList in DevExpress.exe.licenses
+D:\Sample Project\MondayTask\TreeList in DevExpress\obj\Debug\TreeList in DevExpress.exe
+D:\Sample Project\MondayTask\TreeList in DevExpress\obj\Debug\TreeList in DevExpress.pdb
+D:\Sample Project\MondayTask\TreeList in DevExpress\obj\Debug\TreeList in DevExpress.csprojResolveAssemblyReference.cache

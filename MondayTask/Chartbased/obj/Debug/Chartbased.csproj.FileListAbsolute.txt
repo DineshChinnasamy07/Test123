@@ -1,0 +1,7 @@
+D:\Sample Project\MondayTask\Chartbased\bin\Debug\Chartbased.exe
+D:\Sample Project\MondayTask\Chartbased\bin\Debug\Chartbased.pdb
+D:\Sample Project\MondayTask\Chartbased\obj\Debug\Chartbased.Form1.resources
+D:\Sample Project\MondayTask\Chartbased\obj\Debug\Chartbased.Properties.Resources.resources
+D:\Sample Project\MondayTask\Chartbased\obj\Debug\Chartbased.csproj.GenerateResource.Cache
+D:\Sample Project\MondayTask\Chartbased\obj\Debug\Chartbased.exe
+D:\Sample Project\MondayTask\Chartbased\obj\Debug\Chartbased.pdb

@@ -1,0 +1,9 @@
+D:\Sample Project\MondayTask\GridDemoApp\bin\Debug\GridDemoApp.exe
+D:\Sample Project\MondayTask\GridDemoApp\bin\Debug\GridDemoApp.pdb
+D:\Sample Project\MondayTask\GridDemoApp\obj\Debug\GridDemoApp.Form1.resources
+D:\Sample Project\MondayTask\GridDemoApp\obj\Debug\GridDemoApp.Properties.Resources.resources
+D:\Sample Project\MondayTask\GridDemoApp\obj\Debug\GridDemoApp.csproj.GenerateResource.Cache
+D:\Sample Project\MondayTask\GridDemoApp\obj\Debug\GridDemoApp.exe.licenses
+D:\Sample Project\MondayTask\GridDemoApp\obj\Debug\GridDemoApp.exe
+D:\Sample Project\MondayTask\GridDemoApp\obj\Debug\GridDemoApp.pdb
+D:\Sample Project\MondayTask\GridDemoApp\obj\Debug\GridDemoApp.csprojResolveAssemblyReference.cache
